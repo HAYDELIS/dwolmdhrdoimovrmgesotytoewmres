@@ -1,0 +1,21 @@
+body {
+  background-color: #ff8d8d;
+  font-family: cursive;
+  text-align: center;
+  padding: 30px;
+}
+
+h1 {
+  color: #4b0303;
+}
+
+h1 {
+    color:rgb(34, 1, 1)
+}
+img {
+    width: 350px;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.7);
+}
